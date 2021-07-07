@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+- 🔭 I’m currently working on Recommendation System.
+- 🌱 I’m currently reading some classical RS papers.
+- ⚡ Fun fact: Movies/Badminton/CrossTalk/...
 
 <!--
 **Rececology/Rececology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
